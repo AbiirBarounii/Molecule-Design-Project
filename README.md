@@ -22,8 +22,8 @@ R
 
 
 💻 Projects:
-Chronic kindey disease detection an prediction project (Machine learning academic project using ML techniques)
-Yoga poses detection and predection project (deep learning academic project using CNN model)
+Chronic kindey disease detection and prediction project (Machine learning academic project using ML techniques)
+Yoga poses detection and prediction project (deep learning academic project using CNN model)
 Molecule design project (predicting new molecules through the expectation of new properties and SMILES patterns entered as input) 
 Text clasification project ( predict balance code of mt103 swift messages via a machine learning model )
 
@@ -32,11 +32,11 @@ Text clasification project ( predict balance code of mt103 swift messages via a 
 
 
 🧑‍💼 Experiences:
-intern at @BNA bank. (30 days)
-intern at @BFI group tunisia. (30 days )
-intern at @Kleos training center. ( 45 days )
-intern at @UIB Bank. ( 60 days )
-
+#### intern at @BNA bank. (30 days)
+#### intern at @BFI group tunisia. (30 days )
+#### intern at @Kleos training center. ( 45 days )
+#### intern at @UIB Bank. ( 60 days )
+#### currently intern @WimbeeTech ( end of studies internship ) 
 
 
 📝 Personal Interests:
